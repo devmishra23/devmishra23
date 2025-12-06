@@ -34,13 +34,7 @@ Highly precise UI of Zerodha landing page.
 Tech: HTML, CSS, JavaScript
 
 
-📊 GitHub Stats (Animated)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="170"/> </p>
-🐍 Snake Eating My Contributions
 
-(Automatically generated contribution snake — looks super cool on your profile!)
-
-<p align="center"> <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" /> </p>
 
 I can also generate the GitHub Actions workflow if you want to enable this snake animation on your profile.
 
