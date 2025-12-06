@@ -11,15 +11,10 @@ Aspiring Software Developer | B.Tech CSE | India 🇮🇳
 
 ⚙️ Tech Stack
 Languages
-<img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp" />
 Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
 Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
 Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
 🚀 Projects
 🎧 Spotify Clone
 
