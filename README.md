@@ -1,81 +1,69 @@
-# 🌟 Devashish Mishra — Aspiring Software Developer
+🔥 Devashish Mishra
+Aspiring Software Developer | B.Tech CSE | India 🇮🇳
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Devashish+Mishra!;Aspiring+Software+Developer;Full+Stack+Developer+in+Progress;Tech+Enthusiast+%26+Problem+Solver" /> </p>
+🧑‍💻 About Me
 
-Passionate about Full-Stack Development | B.Tech CSE Student | India 🇮🇳
+🌍 From India
+🎓 Pursuing B.Tech in Computer Science & Engineering
+💻 Passionate about Full-Stack Development & Open Source
+🚀 Constantly improving skills & building real projects
+🔥 Love turning ideas into working applications
 
----
+⚙️ Tech Stack
+Languages
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp" />
+Frontend
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+🚀 Projects
+🎧 Spotify Clone
 
-## 👨‍💻 About Me
+A music streaming interface inspired by Spotify.
+🔹 Play / Pause interaction
+🔹 Smooth animations
+🔹 Modern responsive design
+Tech: React, Tailwind
 
-Hi! I'm Devashish Mishra from India, currently pursuing B.Tech in Computer Science & Engineering (CSE).  
-I’m an aspiring Software Developer who loves building intuitive web applications, exploring modern technologies, and solving real-world problems through code.
 
----
+📈 Zerodha Clone
 
-## 🛠️ Tech Stack
+Highly precise UI of Zerodha landing page.
+🔹 Pixel-perfect design
+🔹 Fully responsive
+🔹 Clean & minimal
+Tech: HTML, CSS, JavaScript
 
-**Languages**  
-JavaScript | TypeScript | Python | Java | C++
 
-**Frontend**  
-React.js | HTML5 | CSS3 | Tailwind CSS | Bootstrap
+📊 GitHub Stats (Animated)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="170"/> </p>
+🐍 Snake Eating My Contributions
 
-**Backend**  
-Node.js | Express.js
+(Automatically generated contribution snake — looks super cool on your profile!)
 
-**Databases**  
-MongoDB | MySQL | PostgreSQL
+<p align="center"> <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" /> </p>
 
-**Tools & Platforms**  
-Git & GitHub | VS Code | Postman | Linux Terminal
+I can also generate the GitHub Actions workflow if you want to enable this snake animation on your profile.
 
----
+📫 Connect With Me
 
-## 📌 Featured Projects
+🔗 LinkedIn: 
+📧 Email: 
 
-### 🎧 Spotify Clone
-A fully responsive music streaming UI inspired by Spotify.  
-Features:
-- Modern music player interface
-- Play & pause interactions
-- Responsive layout
-- Tailwind styling  
-Tech Stack: React.js, Tailwind CSS  
-Repo: [Add your GitHub link here]
+🎯 Current Goals
 
-### 📈 Zerodha Clone
-A clean and modern landing page inspired by Zerodha.  
-Features:
-- Pixel-perfect UI
-- Smooth layout & animations
-- Fully responsive design  
-Tech Stack: HTML, CSS, JavaScript  
-Repo: [Add your GitHub link here]
+Master full-stack development
 
----
+Learn cloud (AWS / Azure)
 
-## 🎓 Education
+Build more real-world clones
 
-B.Tech – Computer Science & Engineering (CSE) — Currently Pursuing
+Contribute to open source
 
----
+⭐ If you like my work…
 
-## 📫 Connect With Me
-
-- LinkedIn: [Add your link]  
-- GitHub: [Your GitHub Profile Link]  
-- Email: [your-email@example.com]
-
----
-
-## 💡 Current Goals
-
-- Strengthening full-stack development skills  
-- Learning cloud technologies (AWS/Azure)  
-- Contributing to open-source projects  
-- Preparing for software engineering internships and roles
-
----
-
-## ⭐ Support
-
-If you like my projects, consider giving them a ⭐ — it motivates me to keep improving!
+Consider giving my projects a star — it inspires me to build more! 💙
